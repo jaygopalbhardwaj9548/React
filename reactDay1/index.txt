@@ -4,3 +4,11 @@ comment : hta do , space hata do
 kuch code aisa likha hoga , jo mwin nahi kar rha 
 
 react and  react-doim(kuch portion use kr rha hu )
+
+file ka size kam rakhna hai 
+
+hame kya chaiye hame ek bundler chaiye 
+bundler ye sb kam ko sb krdegaa code ko optimize krdega , 
+
+type of bundler : webpack , vite , parcel
+
